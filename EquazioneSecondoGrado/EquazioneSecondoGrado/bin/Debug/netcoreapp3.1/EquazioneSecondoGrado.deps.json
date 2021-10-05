@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EquazioneSecondoGrado/1.0.0": {
+        "runtime": {
+          "EquazioneSecondoGrado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EquazioneSecondoGrado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

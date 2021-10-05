@@ -1,0 +1,14 @@
+C:\Users\Famiglia Di Lena\source\repos\EquazioneSecondoGrado\EquazioneSecondoGrado\bin\Debug\netcoreapp3.1\EquazioneSecondoGrado.exe
+C:\Users\Famiglia Di Lena\source\repos\EquazioneSecondoGrado\EquazioneSecondoGrado\bin\Debug\netcoreapp3.1\EquazioneSecondoGrado.deps.json
+C:\Users\Famiglia Di Lena\source\repos\EquazioneSecondoGrado\EquazioneSecondoGrado\bin\Debug\netcoreapp3.1\EquazioneSecondoGrado.runtimeconfig.json
+C:\Users\Famiglia Di Lena\source\repos\EquazioneSecondoGrado\EquazioneSecondoGrado\bin\Debug\netcoreapp3.1\EquazioneSecondoGrado.runtimeconfig.dev.json
+C:\Users\Famiglia Di Lena\source\repos\EquazioneSecondoGrado\EquazioneSecondoGrado\bin\Debug\netcoreapp3.1\EquazioneSecondoGrado.dll
+C:\Users\Famiglia Di Lena\source\repos\EquazioneSecondoGrado\EquazioneSecondoGrado\bin\Debug\netcoreapp3.1\EquazioneSecondoGrado.pdb
+C:\Users\Famiglia Di Lena\source\repos\EquazioneSecondoGrado\EquazioneSecondoGrado\obj\Debug\netcoreapp3.1\EquazioneSecondoGrado.csproj.AssemblyReference.cache
+C:\Users\Famiglia Di Lena\source\repos\EquazioneSecondoGrado\EquazioneSecondoGrado\obj\Debug\netcoreapp3.1\EquazioneSecondoGrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Famiglia Di Lena\source\repos\EquazioneSecondoGrado\EquazioneSecondoGrado\obj\Debug\netcoreapp3.1\EquazioneSecondoGrado.AssemblyInfoInputs.cache
+C:\Users\Famiglia Di Lena\source\repos\EquazioneSecondoGrado\EquazioneSecondoGrado\obj\Debug\netcoreapp3.1\EquazioneSecondoGrado.AssemblyInfo.cs
+C:\Users\Famiglia Di Lena\source\repos\EquazioneSecondoGrado\EquazioneSecondoGrado\obj\Debug\netcoreapp3.1\EquazioneSecondoGrado.csproj.CoreCompileInputs.cache
+C:\Users\Famiglia Di Lena\source\repos\EquazioneSecondoGrado\EquazioneSecondoGrado\obj\Debug\netcoreapp3.1\EquazioneSecondoGrado.dll
+C:\Users\Famiglia Di Lena\source\repos\EquazioneSecondoGrado\EquazioneSecondoGrado\obj\Debug\netcoreapp3.1\EquazioneSecondoGrado.pdb
+C:\Users\Famiglia Di Lena\source\repos\EquazioneSecondoGrado\EquazioneSecondoGrado\obj\Debug\netcoreapp3.1\EquazioneSecondoGrado.genruntimeconfig.cache
