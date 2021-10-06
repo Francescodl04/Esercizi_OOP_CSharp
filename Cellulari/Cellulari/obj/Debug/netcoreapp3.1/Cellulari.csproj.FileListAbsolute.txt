@@ -1,0 +1,14 @@
+C:\Users\Famiglia Di Lena\source\repos\Cellulari\Cellulari\bin\Debug\netcoreapp3.1\Cellulari.exe
+C:\Users\Famiglia Di Lena\source\repos\Cellulari\Cellulari\bin\Debug\netcoreapp3.1\Cellulari.deps.json
+C:\Users\Famiglia Di Lena\source\repos\Cellulari\Cellulari\bin\Debug\netcoreapp3.1\Cellulari.runtimeconfig.json
+C:\Users\Famiglia Di Lena\source\repos\Cellulari\Cellulari\bin\Debug\netcoreapp3.1\Cellulari.runtimeconfig.dev.json
+C:\Users\Famiglia Di Lena\source\repos\Cellulari\Cellulari\bin\Debug\netcoreapp3.1\Cellulari.dll
+C:\Users\Famiglia Di Lena\source\repos\Cellulari\Cellulari\bin\Debug\netcoreapp3.1\Cellulari.pdb
+C:\Users\Famiglia Di Lena\source\repos\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.csproj.AssemblyReference.cache
+C:\Users\Famiglia Di Lena\source\repos\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Famiglia Di Lena\source\repos\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.AssemblyInfoInputs.cache
+C:\Users\Famiglia Di Lena\source\repos\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.AssemblyInfo.cs
+C:\Users\Famiglia Di Lena\source\repos\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.csproj.CoreCompileInputs.cache
+C:\Users\Famiglia Di Lena\source\repos\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.dll
+C:\Users\Famiglia Di Lena\source\repos\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.pdb
+C:\Users\Famiglia Di Lena\source\repos\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.genruntimeconfig.cache
