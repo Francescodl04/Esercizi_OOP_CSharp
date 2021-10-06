@@ -1,0 +1,13 @@
+E:\4F A.S. 2021-2022\EtàPersone\EtàPersone\bin\Debug\netcoreapp3.1\EtàPersone.exe
+E:\4F A.S. 2021-2022\EtàPersone\EtàPersone\bin\Debug\netcoreapp3.1\EtàPersone.deps.json
+E:\4F A.S. 2021-2022\EtàPersone\EtàPersone\bin\Debug\netcoreapp3.1\EtàPersone.runtimeconfig.json
+E:\4F A.S. 2021-2022\EtàPersone\EtàPersone\bin\Debug\netcoreapp3.1\EtàPersone.runtimeconfig.dev.json
+E:\4F A.S. 2021-2022\EtàPersone\EtàPersone\bin\Debug\netcoreapp3.1\EtàPersone.dll
+E:\4F A.S. 2021-2022\EtàPersone\EtàPersone\bin\Debug\netcoreapp3.1\EtàPersone.pdb
+E:\4F A.S. 2021-2022\EtàPersone\EtàPersone\obj\Debug\netcoreapp3.1\EtàPersone.csproj.AssemblyReference.cache
+E:\4F A.S. 2021-2022\EtàPersone\EtàPersone\obj\Debug\netcoreapp3.1\EtàPersone.AssemblyInfoInputs.cache
+E:\4F A.S. 2021-2022\EtàPersone\EtàPersone\obj\Debug\netcoreapp3.1\EtàPersone.AssemblyInfo.cs
+E:\4F A.S. 2021-2022\EtàPersone\EtàPersone\obj\Debug\netcoreapp3.1\EtàPersone.csproj.CoreCompileInputs.cache
+E:\4F A.S. 2021-2022\EtàPersone\EtàPersone\obj\Debug\netcoreapp3.1\EtàPersone.dll
+E:\4F A.S. 2021-2022\EtàPersone\EtàPersone\obj\Debug\netcoreapp3.1\EtàPersone.pdb
+E:\4F A.S. 2021-2022\EtàPersone\EtàPersone\obj\Debug\netcoreapp3.1\EtàPersone.genruntimeconfig.cache

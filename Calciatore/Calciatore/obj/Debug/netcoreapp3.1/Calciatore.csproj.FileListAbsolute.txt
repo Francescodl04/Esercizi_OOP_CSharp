@@ -1,0 +1,13 @@
+E:\4F A.S. 2021-2022\Calciatore\Calciatore\bin\Debug\netcoreapp3.1\Calciatore.exe
+E:\4F A.S. 2021-2022\Calciatore\Calciatore\bin\Debug\netcoreapp3.1\Calciatore.deps.json
+E:\4F A.S. 2021-2022\Calciatore\Calciatore\bin\Debug\netcoreapp3.1\Calciatore.runtimeconfig.json
+E:\4F A.S. 2021-2022\Calciatore\Calciatore\bin\Debug\netcoreapp3.1\Calciatore.runtimeconfig.dev.json
+E:\4F A.S. 2021-2022\Calciatore\Calciatore\bin\Debug\netcoreapp3.1\Calciatore.dll
+E:\4F A.S. 2021-2022\Calciatore\Calciatore\bin\Debug\netcoreapp3.1\Calciatore.pdb
+E:\4F A.S. 2021-2022\Calciatore\Calciatore\obj\Debug\netcoreapp3.1\Calciatore.csproj.AssemblyReference.cache
+E:\4F A.S. 2021-2022\Calciatore\Calciatore\obj\Debug\netcoreapp3.1\Calciatore.AssemblyInfoInputs.cache
+E:\4F A.S. 2021-2022\Calciatore\Calciatore\obj\Debug\netcoreapp3.1\Calciatore.AssemblyInfo.cs
+E:\4F A.S. 2021-2022\Calciatore\Calciatore\obj\Debug\netcoreapp3.1\Calciatore.csproj.CoreCompileInputs.cache
+E:\4F A.S. 2021-2022\Calciatore\Calciatore\obj\Debug\netcoreapp3.1\Calciatore.dll
+E:\4F A.S. 2021-2022\Calciatore\Calciatore\obj\Debug\netcoreapp3.1\Calciatore.pdb
+E:\4F A.S. 2021-2022\Calciatore\Calciatore\obj\Debug\netcoreapp3.1\Calciatore.genruntimeconfig.cache
