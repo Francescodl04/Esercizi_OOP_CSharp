@@ -12,3 +12,30 @@ C:\Users\Famiglia Di Lena\source\repos\Cellulari\Cellulari\obj\Debug\netcoreapp3
 C:\Users\Famiglia Di Lena\source\repos\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.dll
 C:\Users\Famiglia Di Lena\source\repos\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.pdb
 C:\Users\Famiglia Di Lena\source\repos\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.genruntimeconfig.cache
+E:\4F A.S. 2021-2022\Cellulari\Cellulari\bin\Debug\netcoreapp3.1\Cellulari.exe
+E:\4F A.S. 2021-2022\Cellulari\Cellulari\bin\Debug\netcoreapp3.1\Cellulari.deps.json
+E:\4F A.S. 2021-2022\Cellulari\Cellulari\bin\Debug\netcoreapp3.1\Cellulari.runtimeconfig.json
+E:\4F A.S. 2021-2022\Cellulari\Cellulari\bin\Debug\netcoreapp3.1\Cellulari.runtimeconfig.dev.json
+E:\4F A.S. 2021-2022\Cellulari\Cellulari\bin\Debug\netcoreapp3.1\Cellulari.dll
+E:\4F A.S. 2021-2022\Cellulari\Cellulari\bin\Debug\netcoreapp3.1\Cellulari.pdb
+E:\4F A.S. 2021-2022\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.csproj.AssemblyReference.cache
+E:\4F A.S. 2021-2022\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.AssemblyInfoInputs.cache
+E:\4F A.S. 2021-2022\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.AssemblyInfo.cs
+E:\4F A.S. 2021-2022\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.csproj.CoreCompileInputs.cache
+E:\4F A.S. 2021-2022\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.dll
+E:\4F A.S. 2021-2022\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.pdb
+E:\4F A.S. 2021-2022\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.genruntimeconfig.cache
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Cellulari\Cellulari\bin\Debug\netcoreapp3.1\Cellulari.exe
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Cellulari\Cellulari\bin\Debug\netcoreapp3.1\Cellulari.deps.json
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Cellulari\Cellulari\bin\Debug\netcoreapp3.1\Cellulari.runtimeconfig.json
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Cellulari\Cellulari\bin\Debug\netcoreapp3.1\Cellulari.runtimeconfig.dev.json
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Cellulari\Cellulari\bin\Debug\netcoreapp3.1\Cellulari.dll
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Cellulari\Cellulari\bin\Debug\netcoreapp3.1\Cellulari.pdb
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.csproj.AssemblyReference.cache
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.AssemblyInfoInputs.cache
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.AssemblyInfo.cs
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.csproj.CoreCompileInputs.cache
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.dll
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.pdb
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Cellulari\Cellulari\obj\Debug\netcoreapp3.1\Cellulari.genruntimeconfig.cache

@@ -12,3 +12,16 @@ C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S.
 C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\TemperaturaCittà\TemperaturaCittà\obj\Debug\netcoreapp3.1\TemperaturaCittà.dll
 C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\TemperaturaCittà\TemperaturaCittà\obj\Debug\netcoreapp3.1\TemperaturaCittà.pdb
 C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\TemperaturaCittà\TemperaturaCittà\obj\Debug\netcoreapp3.1\TemperaturaCittà.genruntimeconfig.cache
+E:\4F A.S. 2021-2022\TemperaturaCittà\TemperaturaCittà\bin\Debug\netcoreapp3.1\TemperaturaCittà.exe
+E:\4F A.S. 2021-2022\TemperaturaCittà\TemperaturaCittà\bin\Debug\netcoreapp3.1\TemperaturaCittà.deps.json
+E:\4F A.S. 2021-2022\TemperaturaCittà\TemperaturaCittà\bin\Debug\netcoreapp3.1\TemperaturaCittà.runtimeconfig.json
+E:\4F A.S. 2021-2022\TemperaturaCittà\TemperaturaCittà\bin\Debug\netcoreapp3.1\TemperaturaCittà.runtimeconfig.dev.json
+E:\4F A.S. 2021-2022\TemperaturaCittà\TemperaturaCittà\bin\Debug\netcoreapp3.1\TemperaturaCittà.dll
+E:\4F A.S. 2021-2022\TemperaturaCittà\TemperaturaCittà\bin\Debug\netcoreapp3.1\TemperaturaCittà.pdb
+E:\4F A.S. 2021-2022\TemperaturaCittà\TemperaturaCittà\obj\Debug\netcoreapp3.1\TemperaturaCittà.csproj.AssemblyReference.cache
+E:\4F A.S. 2021-2022\TemperaturaCittà\TemperaturaCittà\obj\Debug\netcoreapp3.1\TemperaturaCittà.AssemblyInfoInputs.cache
+E:\4F A.S. 2021-2022\TemperaturaCittà\TemperaturaCittà\obj\Debug\netcoreapp3.1\TemperaturaCittà.AssemblyInfo.cs
+E:\4F A.S. 2021-2022\TemperaturaCittà\TemperaturaCittà\obj\Debug\netcoreapp3.1\TemperaturaCittà.csproj.CoreCompileInputs.cache
+E:\4F A.S. 2021-2022\TemperaturaCittà\TemperaturaCittà\obj\Debug\netcoreapp3.1\TemperaturaCittà.dll
+E:\4F A.S. 2021-2022\TemperaturaCittà\TemperaturaCittà\obj\Debug\netcoreapp3.1\TemperaturaCittà.pdb
+E:\4F A.S. 2021-2022\TemperaturaCittà\TemperaturaCittà\obj\Debug\netcoreapp3.1\TemperaturaCittà.genruntimeconfig.cache

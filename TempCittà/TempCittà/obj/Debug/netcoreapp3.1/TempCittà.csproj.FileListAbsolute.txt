@@ -1,0 +1,27 @@
+C:\Users\Studente\Source\Repos\TempCittà\TempCittà\bin\Debug\netcoreapp3.1\TempCittà.exe
+C:\Users\Studente\Source\Repos\TempCittà\TempCittà\bin\Debug\netcoreapp3.1\TempCittà.deps.json
+C:\Users\Studente\Source\Repos\TempCittà\TempCittà\bin\Debug\netcoreapp3.1\TempCittà.runtimeconfig.json
+C:\Users\Studente\Source\Repos\TempCittà\TempCittà\bin\Debug\netcoreapp3.1\TempCittà.runtimeconfig.dev.json
+C:\Users\Studente\Source\Repos\TempCittà\TempCittà\bin\Debug\netcoreapp3.1\TempCittà.dll
+C:\Users\Studente\Source\Repos\TempCittà\TempCittà\bin\Debug\netcoreapp3.1\TempCittà.pdb
+C:\Users\Studente\Source\Repos\TempCittà\TempCittà\obj\Debug\netcoreapp3.1\TempCittà.csproj.AssemblyReference.cache
+C:\Users\Studente\Source\Repos\TempCittà\TempCittà\obj\Debug\netcoreapp3.1\TempCittà.AssemblyInfoInputs.cache
+C:\Users\Studente\Source\Repos\TempCittà\TempCittà\obj\Debug\netcoreapp3.1\TempCittà.AssemblyInfo.cs
+C:\Users\Studente\Source\Repos\TempCittà\TempCittà\obj\Debug\netcoreapp3.1\TempCittà.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Source\Repos\TempCittà\TempCittà\obj\Debug\netcoreapp3.1\TempCittà.dll
+C:\Users\Studente\Source\Repos\TempCittà\TempCittà\obj\Debug\netcoreapp3.1\TempCittà.pdb
+C:\Users\Studente\Source\Repos\TempCittà\TempCittà\obj\Debug\netcoreapp3.1\TempCittà.genruntimeconfig.cache
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\TempCittà\TempCittà\bin\Debug\netcoreapp3.1\TempCittà.exe
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\TempCittà\TempCittà\bin\Debug\netcoreapp3.1\TempCittà.deps.json
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\TempCittà\TempCittà\bin\Debug\netcoreapp3.1\TempCittà.runtimeconfig.json
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\TempCittà\TempCittà\bin\Debug\netcoreapp3.1\TempCittà.runtimeconfig.dev.json
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\TempCittà\TempCittà\bin\Debug\netcoreapp3.1\TempCittà.dll
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\TempCittà\TempCittà\bin\Debug\netcoreapp3.1\TempCittà.pdb
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\TempCittà\TempCittà\obj\Debug\netcoreapp3.1\TempCittà.csproj.AssemblyReference.cache
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\TempCittà\TempCittà\obj\Debug\netcoreapp3.1\TempCittà.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\TempCittà\TempCittà\obj\Debug\netcoreapp3.1\TempCittà.AssemblyInfoInputs.cache
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\TempCittà\TempCittà\obj\Debug\netcoreapp3.1\TempCittà.AssemblyInfo.cs
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\TempCittà\TempCittà\obj\Debug\netcoreapp3.1\TempCittà.csproj.CoreCompileInputs.cache
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\TempCittà\TempCittà\obj\Debug\netcoreapp3.1\TempCittà.dll
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\TempCittà\TempCittà\obj\Debug\netcoreapp3.1\TempCittà.pdb
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\TempCittà\TempCittà\obj\Debug\netcoreapp3.1\TempCittà.genruntimeconfig.cache

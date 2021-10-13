@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Famiglia Di Lena\\source\\repos\\Cellulari\\Cellulari\\Cellulari.csproj",
+      "projectUniqueName": "C:\\Users\\Famiglia Di Lena\\Documents\\Scuola\\Secondaria di Secondo Grado\\IV F A.S. 2021-2022\\Informatica\\Esercizi_OOP_CSharp\\Cellulari\\Cellulari\\Cellulari.csproj",
       "projectName": "Cellulari",
-      "projectPath": "C:\\Users\\Famiglia Di Lena\\source\\repos\\Cellulari\\Cellulari\\Cellulari.csproj",
+      "projectPath": "C:\\Users\\Famiglia Di Lena\\Documents\\Scuola\\Secondaria di Secondo Grado\\IV F A.S. 2021-2022\\Informatica\\Esercizi_OOP_CSharp\\Cellulari\\Cellulari\\Cellulari.csproj",
       "packagesPath": "C:\\Users\\Famiglia Di Lena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Famiglia Di Lena\\source\\repos\\Cellulari\\Cellulari\\obj\\",
+      "outputPath": "C:\\Users\\Famiglia Di Lena\\Documents\\Scuola\\Secondaria di Secondo Grado\\IV F A.S. 2021-2022\\Informatica\\Esercizi_OOP_CSharp\\Cellulari\\Cellulari\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
