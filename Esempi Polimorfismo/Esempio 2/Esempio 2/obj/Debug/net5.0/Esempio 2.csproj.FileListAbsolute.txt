@@ -1,0 +1,16 @@
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Esempi Polimorfismo\Esempio 2\Esempio 2\bin\Debug\net5.0\Esempio 2.exe
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Esempi Polimorfismo\Esempio 2\Esempio 2\bin\Debug\net5.0\Esempio 2.deps.json
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Esempi Polimorfismo\Esempio 2\Esempio 2\bin\Debug\net5.0\Esempio 2.runtimeconfig.json
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Esempi Polimorfismo\Esempio 2\Esempio 2\bin\Debug\net5.0\Esempio 2.runtimeconfig.dev.json
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Esempi Polimorfismo\Esempio 2\Esempio 2\bin\Debug\net5.0\Esempio 2.dll
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Esempi Polimorfismo\Esempio 2\Esempio 2\bin\Debug\net5.0\ref\Esempio 2.dll
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Esempi Polimorfismo\Esempio 2\Esempio 2\bin\Debug\net5.0\Esempio 2.pdb
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Esempi Polimorfismo\Esempio 2\Esempio 2\obj\Debug\net5.0\Esempio 2.csproj.AssemblyReference.cache
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Esempi Polimorfismo\Esempio 2\Esempio 2\obj\Debug\net5.0\Esempio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Esempi Polimorfismo\Esempio 2\Esempio 2\obj\Debug\net5.0\Esempio 2.AssemblyInfoInputs.cache
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Esempi Polimorfismo\Esempio 2\Esempio 2\obj\Debug\net5.0\Esempio 2.AssemblyInfo.cs
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Esempi Polimorfismo\Esempio 2\Esempio 2\obj\Debug\net5.0\Esempio 2.csproj.CoreCompileInputs.cache
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Esempi Polimorfismo\Esempio 2\Esempio 2\obj\Debug\net5.0\Esempio 2.dll
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Esempi Polimorfismo\Esempio 2\Esempio 2\obj\Debug\net5.0\ref\Esempio 2.dll
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Esempi Polimorfismo\Esempio 2\Esempio 2\obj\Debug\net5.0\Esempio 2.pdb
+C:\Users\Famiglia Di Lena\Documents\Scuola\Secondaria di Secondo Grado\IV F A.S. 2021-2022\Informatica\Esercizi_OOP_CSharp\Esempi Polimorfismo\Esempio 2\Esempio 2\obj\Debug\net5.0\Esempio 2.genruntimeconfig.cache
